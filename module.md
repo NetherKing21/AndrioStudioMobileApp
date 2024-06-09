@@ -85,7 +85,7 @@ Note that `IM` stands for Individual Module and `TP` stands for Team Project.
 |5/15/24   | 10:15    |TM      |Learning requests-html for web scrapping    | 01:00       |
 |5/20/24   | 10:15    |TM      |More requests-html                          | 01:00       |
 |5/22/24   | 12:30    |TM      |Documentation and requests-html             | 01:00       |
-|          |          |        |                                            |             |
+|5/24/24   | 9:00     | IM     |Set up Android Studio and created hello World app| 1:00   |
 |          |          |        |                                            |             |
 
 _Note: Add more rows as needed._
